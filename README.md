@@ -2,3 +2,4 @@
 ## you can do PR to this repository
 
 # Contributors
+- Krupa
